@@ -21,14 +21,14 @@ Make our data pretty
 '''
 # json_data = json.loads(raw_data._content)
 
-# pretty_json = json.dumps(json_data, indent=4, sort_keys=True))
+# pretty_json = json.dumps(json_data, indent=4, sort_keys=True)
 # print(pretty_json)
 
 '''
 Print only one item of our data
 '''
-# print(json_dat['title'])
-# print(json_data['description']['value']
+# print(json_data['title'])
+# print(json_data['description']['value'])
 
 '''
 Save data to file
